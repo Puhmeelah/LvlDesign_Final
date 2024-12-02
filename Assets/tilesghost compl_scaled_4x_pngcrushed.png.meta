@@ -1,0 +1,1847 @@
+fileFormatVersion: 2
+guid: 8e56f984698a8c140ab93bd7bc4776a6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tilesghost compl_scaled_4x_pngcrushed_0
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1920
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078d5da8bef1d9b4eada57bfe848c4e6
+      internalID: -191842061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesghost compl_scaled_4x_pngcrushed_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1920
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8bacdf771ed244ea8dd7c2728fa83c
+      internalID: -1205459975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesghost compl_scaled_4x_pngcrushed_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1920
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811e75d2d0b0dab4d8ac6f450c7ca887
+      internalID: 1819745100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesghost compl_scaled_4x_pngcrushed_3
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1920
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35d4a81ff1c04a46899ced8af3668d7
+      internalID: -835442083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesghost compl_scaled_4x_pngcrushed_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1920
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d63371f9d67a6547a36b06f0062c8f3
+      internalID: 938185264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesghost compl_scaled_4x_pngcrushed_5
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1920
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0113939c8d1264cb2d94609d487209
+      internalID: 1202185749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesghost compl_scaled_4x_pngcrushed_6
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1920
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a868ae52f5aa74aa79ddbe9701c576
+      internalID: 2036291892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesghost compl_scaled_4x_pngcrushed_7
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1920
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b716e433f1c81a4aa5aa0754402b9a0
+      internalID: 1462164064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesghost compl_scaled_4x_pngcrushed_8
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1920
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27e85c6156d3e04fb700e10a03164d0
+      internalID: -605410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesghost compl_scaled_4x_pngcrushed_9
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1920
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22fb87e9ad1476a4790fba4933503120
+      internalID: -2101770312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesghost compl_scaled_4x_pngcrushed_10
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1920
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1050709df4ffb9a42ae8e039ac4a748f
+      internalID: 498118098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesghost compl_scaled_4x_pngcrushed_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1856
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bedeb7a7ec370394da2d45b8b4100e39
+      internalID: -66351029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesghost compl_scaled_4x_pngcrushed_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1856
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1927c16b9168d4689d40e2a554d92a
+      internalID: -622145726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesghost compl_scaled_4x_pngcrushed_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1856
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c381e9f0d9f2d774ba71b267e8cfc2a5
+      internalID: -1618785424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesghost compl_scaled_4x_pngcrushed_14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1856
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfcb43b87d0ea7148bc0c3da391ca0e5
+      internalID: 2093118499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesghost compl_scaled_4x_pngcrushed_15
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1856
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e44e83037befbd45b21cfc860087983
+      internalID: 656216831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesghost compl_scaled_4x_pngcrushed_16
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1856
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4255061e21282ff4f8216c1e249a763b
+      internalID: -1615599025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesghost compl_scaled_4x_pngcrushed_17
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1856
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192500f282529a2429ad7e9cfa0b58af
+      internalID: 1109458216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesghost compl_scaled_4x_pngcrushed_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1792
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3208d6da026d5fa458838daff53c9ca7
+      internalID: 1091090553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesghost compl_scaled_4x_pngcrushed_19
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1792
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348f1cd5614b96b4db4d2a553c596c98
+      internalID: -1161738813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesghost compl_scaled_4x_pngcrushed_20
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1792
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968fab4777c3f7a4a8e4c43f4d8213ec
+      internalID: -916667612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesghost compl_scaled_4x_pngcrushed_21
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1792
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116c23b0c06b5b24ab1461f1bc8bb01f
+      internalID: -646467920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesghost compl_scaled_4x_pngcrushed_22
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1792
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa1c56ccb395b04a9a7f93bc842fc89
+      internalID: -769231246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesghost compl_scaled_4x_pngcrushed_23
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1792
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9834cff01f7efb7418cfaa9b3b17ebbd
+      internalID: 877623170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesghost compl_scaled_4x_pngcrushed_24
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1792
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbeebafbf8716df41b722dd798cf4f26
+      internalID: 2100535044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesghost compl_scaled_4x_pngcrushed_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1728
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8308ab5624533546ab0b6c385ac7eff
+      internalID: 1610392323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesghost compl_scaled_4x_pngcrushed_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1728
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53501b472f34104689115b7030408fb
+      internalID: 1786366943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesghost compl_scaled_4x_pngcrushed_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1728
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa31950e5d513fe47bd777a6968eb89b
+      internalID: -448153572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesghost compl_scaled_4x_pngcrushed_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1728
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138ea6fdcff71444fa7cfb52c7f14c62
+      internalID: 72464838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesghost compl_scaled_4x_pngcrushed_29
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1728
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346fcd66c7770614faed04102ed44488
+      internalID: 797074898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesghost compl_scaled_4x_pngcrushed_30
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1728
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581b469e4847f0f468d7b8889cea391d
+      internalID: 139059474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesghost compl_scaled_4x_pngcrushed_31
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1728
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7444f73f4924bac41a0915f710aaebed
+      internalID: 2087521019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesghost compl_scaled_4x_pngcrushed_32
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1664
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628ad16856b610e46af3c23a3d3e7daf
+      internalID: 284857670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesghost compl_scaled_4x_pngcrushed_33
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1664
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34d05672edb87a409b340777dc05316
+      internalID: -541388093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesghost compl_scaled_4x_pngcrushed_34
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1664
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb9dc56f1f54924baa8066b0413571b
+      internalID: 1093911139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesghost compl_scaled_4x_pngcrushed_35
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1664
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517baf3b5df5bd8449aeb95a31001ca0
+      internalID: 196482675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesghost compl_scaled_4x_pngcrushed_36
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1664
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1432ebecf331d143a1643511e552099
+      internalID: 862383926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesghost compl_scaled_4x_pngcrushed_37
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1664
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3c52e51f20c2c49909b0380876360b
+      internalID: 843796482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesghost compl_scaled_4x_pngcrushed_38
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1664
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de62eab3c3dcb1499c2de6c089c2aaa
+      internalID: -1371492512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesghost compl_scaled_4x_pngcrushed_39
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1600
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceeac2d1874a16c44bc542e77ac0e86e
+      internalID: 811078567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesghost compl_scaled_4x_pngcrushed_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1600
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2c491cc8656b64daed35ec1198dc22
+      internalID: 2030564921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesghost compl_scaled_4x_pngcrushed_41
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1600
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f35fcfca3831343a8d88777d6cd7f4
+      internalID: -2107780935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesghost compl_scaled_4x_pngcrushed_42
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1600
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88d34d8eb3ed524fb1315c48961a008
+      internalID: -627448615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesghost compl_scaled_4x_pngcrushed_43
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1600
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135b6953c9880ac4383ae8be5e5d5d36
+      internalID: 489169907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesghost compl_scaled_4x_pngcrushed_44
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1600
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7192c58e9422ef34caecba1b684e61f4
+      internalID: -1497639592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesghost compl_scaled_4x_pngcrushed_45
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1600
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4079e9f21e317f6459cdfb658d1a17c1
+      internalID: 911705644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesghost compl_scaled_4x_pngcrushed_46
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f715d2235fb84b7479aaf30a519f6d20
+      internalID: -2045057904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesghost compl_scaled_4x_pngcrushed_47
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89240c331416fd44cbb96ab4503c5775
+      internalID: 1824265536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesghost compl_scaled_4x_pngcrushed_48
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e5936a353d6eb43bd24372911f90da
+      internalID: 1704995531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesghost compl_scaled_4x_pngcrushed_49
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae95f5bcb63af74093e9849ee77b3d0
+      internalID: 233001636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesghost compl_scaled_4x_pngcrushed_50
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4fe344e4b95eb45a8a4ae9d4a98e21
+      internalID: -22202599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesghost compl_scaled_4x_pngcrushed_51
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76c3b3acc96e05408e5608c621b7722
+      internalID: 1007003144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesghost compl_scaled_4x_pngcrushed_52
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea62aa7b173c864fac14a4725c2de63
+      internalID: 320324842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesghost compl_scaled_4x_pngcrushed_53
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40099e3b57fc6034a8ed731b110aec96
+      internalID: 1094080778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesghost compl_scaled_4x_pngcrushed_54
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fda12ce69769c04f974f01cdc6327bd
+      internalID: -879036838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesghost compl_scaled_4x_pngcrushed_55
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e15deb7d18e2640bdd6ca64610213a
+      internalID: 264831015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesghost compl_scaled_4x_pngcrushed_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3b34021a2bab94f822b18e9676b0a0
+      internalID: -1195411918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesghost compl_scaled_4x_pngcrushed_57
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e00a1a6bedf6024da51380abd6f9cce
+      internalID: -422665658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesghost compl_scaled_4x_pngcrushed_58
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb8ffd8d9d9bb9489a5391680dfb80b
+      internalID: 1607498909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesghost compl_scaled_4x_pngcrushed_59
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c8c3396b1d5da428964a403f723efd
+      internalID: 1046706467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesghost compl_scaled_4x_pngcrushed_60
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e06f1f0459864a4ca116aa3376cbb5c
+      internalID: -635501218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesghost compl_scaled_4x_pngcrushed_61
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6d41c8d4e751b4aa75ff802f202be3
+      internalID: -1527574955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesghost compl_scaled_4x_pngcrushed_62
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17bb583aba5551f429816302b6b62884
+      internalID: 1172942583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesghost compl_scaled_4x_pngcrushed_63
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382baee2e55778440b039871a736c4ed
+      internalID: 213183723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesghost compl_scaled_4x_pngcrushed_64
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb2a693a5aba064baf773659d5dcaf4
+      internalID: -244602782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesghost compl_scaled_4x_pngcrushed_65
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03cfd37a12e95ee4ca809e8daeb86989
+      internalID: -1672159465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesghost compl_scaled_4x_pngcrushed_66
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f980d12e4d6ed5498600e3a1c2911b0
+      internalID: 1526182884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesghost compl_scaled_4x_pngcrushed_67
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5405ad47e82e74a91c82ebdcd1a3dc
+      internalID: 1632565268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesghost compl_scaled_4x_pngcrushed_68
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f74348ee99fe734f8bd676ab1e5abca
+      internalID: 751417272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesghost compl_scaled_4x_pngcrushed_69
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a111ef46ba804004084a1ba58627762f
+      internalID: 1475129481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesghost compl_scaled_4x_pngcrushed_70
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c5d5e5935dd4542863f393db204807
+      internalID: 251365149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesghost compl_scaled_4x_pngcrushed_71
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb6cd029ec968947b104638eda0c011
+      internalID: -1452020733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesghost compl_scaled_4x_pngcrushed_72
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfbf57c2b26064043ac32653027944f8
+      internalID: -945274984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesghost compl_scaled_4x_pngcrushed_73
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12dddb43e86c4fc4396e367c3a81d7bf
+      internalID: 673579751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesghost compl_scaled_4x_pngcrushed_74
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f45963cc673c14a8cb8fec03b1ed55
+      internalID: -759497260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesghost compl_scaled_4x_pngcrushed_75
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad912e5cc6903414899578423d956b0b
+      internalID: -1144061899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesghost compl_scaled_4x_pngcrushed_76
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee41158a7cf29447ac1d1d0dc48c639
+      internalID: 2057646763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      tilesghost compl_scaled_4x_pngcrushed_0: -191842061
+      tilesghost compl_scaled_4x_pngcrushed_1: -1205459975
+      tilesghost compl_scaled_4x_pngcrushed_10: 498118098
+      tilesghost compl_scaled_4x_pngcrushed_11: -66351029
+      tilesghost compl_scaled_4x_pngcrushed_12: -622145726
+      tilesghost compl_scaled_4x_pngcrushed_13: -1618785424
+      tilesghost compl_scaled_4x_pngcrushed_14: 2093118499
+      tilesghost compl_scaled_4x_pngcrushed_15: 656216831
+      tilesghost compl_scaled_4x_pngcrushed_16: -1615599025
+      tilesghost compl_scaled_4x_pngcrushed_17: 1109458216
+      tilesghost compl_scaled_4x_pngcrushed_18: 1091090553
+      tilesghost compl_scaled_4x_pngcrushed_19: -1161738813
+      tilesghost compl_scaled_4x_pngcrushed_2: 1819745100
+      tilesghost compl_scaled_4x_pngcrushed_20: -916667612
+      tilesghost compl_scaled_4x_pngcrushed_21: -646467920
+      tilesghost compl_scaled_4x_pngcrushed_22: -769231246
+      tilesghost compl_scaled_4x_pngcrushed_23: 877623170
+      tilesghost compl_scaled_4x_pngcrushed_24: 2100535044
+      tilesghost compl_scaled_4x_pngcrushed_25: 1610392323
+      tilesghost compl_scaled_4x_pngcrushed_26: 1786366943
+      tilesghost compl_scaled_4x_pngcrushed_27: -448153572
+      tilesghost compl_scaled_4x_pngcrushed_28: 72464838
+      tilesghost compl_scaled_4x_pngcrushed_29: 797074898
+      tilesghost compl_scaled_4x_pngcrushed_3: -835442083
+      tilesghost compl_scaled_4x_pngcrushed_30: 139059474
+      tilesghost compl_scaled_4x_pngcrushed_31: 2087521019
+      tilesghost compl_scaled_4x_pngcrushed_32: 284857670
+      tilesghost compl_scaled_4x_pngcrushed_33: -541388093
+      tilesghost compl_scaled_4x_pngcrushed_34: 1093911139
+      tilesghost compl_scaled_4x_pngcrushed_35: 196482675
+      tilesghost compl_scaled_4x_pngcrushed_36: 862383926
+      tilesghost compl_scaled_4x_pngcrushed_37: 843796482
+      tilesghost compl_scaled_4x_pngcrushed_38: -1371492512
+      tilesghost compl_scaled_4x_pngcrushed_39: 811078567
+      tilesghost compl_scaled_4x_pngcrushed_4: 938185264
+      tilesghost compl_scaled_4x_pngcrushed_40: 2030564921
+      tilesghost compl_scaled_4x_pngcrushed_41: -2107780935
+      tilesghost compl_scaled_4x_pngcrushed_42: -627448615
+      tilesghost compl_scaled_4x_pngcrushed_43: 489169907
+      tilesghost compl_scaled_4x_pngcrushed_44: -1497639592
+      tilesghost compl_scaled_4x_pngcrushed_45: 911705644
+      tilesghost compl_scaled_4x_pngcrushed_46: -2045057904
+      tilesghost compl_scaled_4x_pngcrushed_47: 1824265536
+      tilesghost compl_scaled_4x_pngcrushed_48: 1704995531
+      tilesghost compl_scaled_4x_pngcrushed_49: 233001636
+      tilesghost compl_scaled_4x_pngcrushed_5: 1202185749
+      tilesghost compl_scaled_4x_pngcrushed_50: -22202599
+      tilesghost compl_scaled_4x_pngcrushed_51: 1007003144
+      tilesghost compl_scaled_4x_pngcrushed_52: 320324842
+      tilesghost compl_scaled_4x_pngcrushed_53: 1094080778
+      tilesghost compl_scaled_4x_pngcrushed_54: -879036838
+      tilesghost compl_scaled_4x_pngcrushed_55: 264831015
+      tilesghost compl_scaled_4x_pngcrushed_56: -1195411918
+      tilesghost compl_scaled_4x_pngcrushed_57: -422665658
+      tilesghost compl_scaled_4x_pngcrushed_58: 1607498909
+      tilesghost compl_scaled_4x_pngcrushed_59: 1046706467
+      tilesghost compl_scaled_4x_pngcrushed_6: 2036291892
+      tilesghost compl_scaled_4x_pngcrushed_60: -635501218
+      tilesghost compl_scaled_4x_pngcrushed_61: -1527574955
+      tilesghost compl_scaled_4x_pngcrushed_62: 1172942583
+      tilesghost compl_scaled_4x_pngcrushed_63: 213183723
+      tilesghost compl_scaled_4x_pngcrushed_64: -244602782
+      tilesghost compl_scaled_4x_pngcrushed_65: -1672159465
+      tilesghost compl_scaled_4x_pngcrushed_66: 1526182884
+      tilesghost compl_scaled_4x_pngcrushed_67: 1632565268
+      tilesghost compl_scaled_4x_pngcrushed_68: 751417272
+      tilesghost compl_scaled_4x_pngcrushed_69: 1475129481
+      tilesghost compl_scaled_4x_pngcrushed_7: 1462164064
+      tilesghost compl_scaled_4x_pngcrushed_70: 251365149
+      tilesghost compl_scaled_4x_pngcrushed_71: -1452020733
+      tilesghost compl_scaled_4x_pngcrushed_72: -945274984
+      tilesghost compl_scaled_4x_pngcrushed_73: 673579751
+      tilesghost compl_scaled_4x_pngcrushed_74: -759497260
+      tilesghost compl_scaled_4x_pngcrushed_75: -1144061899
+      tilesghost compl_scaled_4x_pngcrushed_76: 2057646763
+      tilesghost compl_scaled_4x_pngcrushed_8: -605410
+      tilesghost compl_scaled_4x_pngcrushed_9: -2101770312
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
